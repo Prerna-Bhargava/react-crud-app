@@ -1,0 +1,65 @@
+tr{
+    text-align: center;
+    line-height: 2;
+    border:2px solid gray;
+    font-weight:450;
+}
+table,td,th,tr{
+    border-right: 2px solid gray;
+}
+.leftalign{
+    text-align: left; 
+}
+.leftpadding{
+   padding-left:20%
+}
+.leftpaddingD{
+    padding-left:2%
+ }
+.rightmargin{
+    width:8%;
+
+}
+.rightmarginBg{
+    width:10%; 
+}
+button{
+    margin:5px;
+    margin-left:8px;
+    height:40px;
+    width: 70px;  
+}
+.add{
+    height:40px;
+    width:200px;  
+    margin-left: 10%;  
+}
+input{
+    width:55%;
+    height:35px;
+    margin:5px 0;
+}
+.leftmargin{
+    margin:2% 0 20px 15%;
+    color:rgb(34, 34, 211);
+}
+label{
+    font-weight: 500;
+    font-size: 18px;
+}
+.finaladd{
+    height:35px;
+    width:90px; 
+}
+.backbtn{
+    height:40px;
+    width:150px;  
+    margin-left: 4%;  
+}
+.position{
+    position: absolute;
+    top:25%;
+    left:18%;
+
+}
+
